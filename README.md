@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wong561
 - 👀 I’m interested in machine learning, chess, and Jiu Jitsu...
-- 🌱 I know Python and I'm currently learning C++
+- 🌱 I know Python and Django
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me:
 -    email: wong561@gmail.com
